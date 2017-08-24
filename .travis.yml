@@ -1,0 +1,2 @@
+language: objective-c
+script: xcodebuild -project SafariViewController.xcodeproj -scheme SafariViewController -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
